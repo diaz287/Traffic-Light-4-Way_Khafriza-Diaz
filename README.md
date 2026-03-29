@@ -1,7 +1,7 @@
 # Simulasi Traffic Light 4 Arah dengan Arduino Uno
 
 ### Deskripsi Proyek
-Proyek ini adalah simulasi sistem kontrol lampu lalu lintas empat arah yang dikendalikan oleh mikrokontroler Arduino Uno. Proyek ini dibuat untuk memenuhi **Tugas 3 Mata Kuliah Pemrograman Sistem Tertanam** oleh mahasiswa Teknik Mesin Universitas Negeri Semarang (UNNES), dengan konsentrasi Sistem Tertanam.
+Proyek ini adalah simulasi sistem kontrol lampu lalu lintas empat arah yang dikendalikan oleh mikrokontroler Arduino Uno. Proyek ini dibuat untuk memenuhi **Tugas 3 Mata Kuliah Pemrograman Sistem Tertanam**
 
 Simulasi ini mereplikasi siklus lampu lalu lintas yang realistis untuk persimpangan jalan dengan urutan putaran searah jarum jam (Utara, Timur, Selatan, Barat), memastikan kelancaran arus lalu lintas dan keamanan pejalan kaki.
 
