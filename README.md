@@ -44,7 +44,7 @@ Berikut adalah konfigurasi pin digital Arduino yang digunakan untuk mengendalika
 ### Menjalankan Simulasi
 simulasikan proyek ini secara langsung melalui Tinkercad di tautan berikut:
 
-[**>> KLIK DI SINI UNTUK MELIHAT SIMULASI TINKERCAD <<**]([PASTE_LINK_TINKERCAD_KAMU_DI_SINI](https://www.tinkercad.com/things/7klr8Epc9NP/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=cACq2LgvR4NCDKTESmq5pMKSEHih8vXpG9EQaa6hjD0))
+[**>> KLIK DI SINI UNTUK MELIHAT SIMULASI TINKERCAD <<**](https://www.tinkercad.com/things/7klr8Epc9NP/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=cACq2LgvR4NCDKTESmq5pMKSEHih8vXpG9EQaa6hjD0)
 
 ---
 
